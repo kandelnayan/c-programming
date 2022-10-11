@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <conio.h>
+int main(){
 
 float base, height, area;
 
-int main(){
+
 	
 	printf("enter base : ");
 	scanf("%f", &base);
